@@ -1,20 +1,13 @@
-# Exploratory Data Analysis of NYC TLC Data
-## EXECUTIVE SUMMARY | COMMISSION PREPARED BY AUTOMATIDATA 
+# Tyler Ross - Data Analysis Portfolio
+## About
+Hi, I’m Tyler Ross — a versatile data analyst passionate about transforming raw data into actionable insights that drive growth. With hands-on experience in data collection, transformation, and analysis, I’ve developed a proficiency in SQL, Excel, Tableau, and Python, which I use to support data-driven decision-making.
 
+My background spans leadership, logistics, and technical fields, giving me a unique perspective on problem-solving and analytical thinking. As I work toward my Bachelor’s in Data Science at the University of Maryland Global Campus, I’m focused on building a portfolio that showcases my skills in data visualization, predictive modeling, and business analysis.
 
-## Overview
-The NYC Taxi & Limousine Commission has contracted with Automatidata to build a regression model that predicts taxi cab ride fares. In this part of the project, the data needs to be analyzed, explored, cleaned, and structured prior to any modeling.
+In this portfolio, you’ll find projects demonstrating the entire data analysis process, from data cleaning and wrangling to visual storytelling and actionable recommendations. Each project reflects my dedication to delivering measurable results, particularly for organizations with a growth-focused mindset.
 
-## The Problem
-After running initial exploratory data analysis (EDA) on a sample of the data provided by New York City TLC, some of the data will prove an obstacle for accurate ride fare prediction.
-Namely, trips that have a total cost entered, but a total distance of “0.” At this point, our analysis indicates these to be anomalies or outliers that need to be factored into the algorithm or removed completely.
-
-## The Solution
-After analysis, I recommend removing outliers with a total distance recorded of 0. Highlights
-As a result of the conducted exploratory data analysis, I considered trip distance and total amount as key variables to depict a taxicab ride. 
-The provided scatter plot shows the relationship between the two variables. This scatter plot was created in Tableau to enhance the provided visualization.
-
-<p align="center">
-    <img width="300" height="200" src="https://github.com/user-attachments/assets/b7dbf76d-15a3-4651-9a52-d87e62fbfa09"
-        alt="Graph displaying New York City TLC data plotting variables for total distance and total amount.">
-</p>
+# Key Skills:
+Data Analysis & Visualization: Proficient in Tableau, Power BI, Python (Pandas, Matplotlib), and SQL (MySQL, Postgres, Oracle).
+Business & Technical Skills: Strong foundation in communication, leadership, and problem-solving developed through years in supervisory and technical roles.
+Education: Currently pursuing a Bachelor’s degree in Data Science, with coursework in SQL, database management, statistics, and calculus. Completed the Google Data Analytics Certificate, covering the end-to-end data analysis process.
+I’m always excited to connect with fellow data enthusiasts, collaborators, and potential employers. Thanks for visiting my portfolio, and feel free to reach out if you’d like to chat about data or explore potential collaborations!
