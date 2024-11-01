@@ -6,7 +6,7 @@ My background spans leadership, logistics, and technical fields, giving me a uni
 
 In this portfolio, you’ll find projects demonstrating the entire data analysis process, from data cleaning and wrangling to visual storytelling and actionable recommendations. Each project reflects my dedication to delivering measurable results, particularly for organizations with a growth-focused mindset.
 
-# Key Skills:
+## Key Skills:
 Data Analysis & Visualization: Proficient in Tableau, Power BI, Python (Pandas, Matplotlib), and SQL (MySQL, Postgres, Oracle).
 Business & Technical Skills: Strong foundation in communication, leadership, and problem-solving developed through years in supervisory and technical roles.
 Education: Currently pursuing a Bachelor’s degree in Data Science, with coursework in SQL, database management, statistics, and calculus. Completed the Google Data Analytics Certificate, covering the end-to-end data analysis process.
