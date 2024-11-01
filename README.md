@@ -14,4 +14,7 @@ After analysis, I recommend removing outliers with a total distance recorded of 
 As a result of the conducted exploratory data analysis, I considered trip distance and total amount as key variables to depict a taxicab ride. 
 The provided scatter plot shows the relationship between the two variables. This scatter plot was created in Tableau to enhance the provided visualization.
 
-![image](https://github.com/user-attachments/assets/948e78d0-2387-49ab-ac6a-1b57f804f298)
+<p align="center">
+    <img width="200" src=![image](https://github.com/user-attachments/assets/948e78d0-2387-49ab-ac6a-1b57f804f298)
+ alt="Graph displaying New York City TLC data plotting variables for total distance and total amount.">
+</p>
