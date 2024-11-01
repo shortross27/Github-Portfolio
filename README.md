@@ -1,4 +1,3 @@
-# Tyler Ross - Data Analysis Portfolio
 ## About
 Hi, I’m Tyler Ross — a versatile data analyst passionate about transforming raw data into actionable insights that drive growth. With hands-on experience in data collection, transformation, and analysis, I’ve developed a proficiency in SQL, Excel, Tableau, and Python, which I use to support data-driven decision-making.
 
