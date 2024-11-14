@@ -1,23 +1,43 @@
+# GitHub Portfolio
+Welcome to my GitHub Portfolio! This site showcases my projects, skills, and experience, demonstrating my journey in data analytics and technical writing. I designed this portfolio to highlight some of my key projects and to provide a centralized location where potential employers and collaborators can learn more about my work and expertise.
+
+
 ## About
-Hi, I’m Tyler Ross — a versatile data analyst passionate about transforming raw data into actionable insights that drive growth. With hands-on experience in data collection, transformation, and analysis, I’ve developed a proficiency in SQL, Excel, Tableau, and Python, which I use to support data-driven decision-making.
+This portfolio site presents a curated selection of my projects, technical skills, and professional achievements. The site is built with HTML, CSS, and JavaScript and is hosted on GitHub Pages. My goal is to create a user-friendly and visually appealing platform that reflects my abilities in data analytics, technical writing, and web design.
 
-My background spans leadership, logistics, and technical fields, giving me a unique perspective on problem-solving and analytical thinking. As I work toward my Bachelor’s in Data Science at the University of Maryland Global Campus, I’m focused on building a portfolio that showcases my skills in data visualization, predictive modeling, and business analysis.
+## Projects
+Here are some of the key projects featured in this portfolio:
 
-In this portfolio, you’ll find projects demonstrating the entire data analysis process, from data cleaning and wrangling to visual storytelling and actionable recommendations. Each project reflects my dedication to delivering measurable results, particularly for organizations with a growth-focused mindset.
+### [User-Behavior eCommerce](https://github.com/shortross27/User-Behavior-eCommerce)
 
-## Key Skills
-- Data Analysis & Visualization: Proficient in Tableau, Power BI, Python (Pandas, Matplotlib), and SQL (MySQL, Postgres, Oracle).
-- Business & Technical Skills: Strong foundation in communication, leadership, and problem-solving developed through years in supervisory and technical roles.
-- Education: Currently pursuing a Bachelor’s degree in Data Science, with coursework in SQL, database management, statistics, and calculus. Completed the Google Data Analytics Certificate, covering the end-to-end data analysis process.
+**Description:** This project utilizes the User-Behavior eCommerce dataset sourced from Kaggle, which captures user interactions on an online retail platform. The dataset includes various attributes, such as user IDs, product categories, timestamps, and actions taken, providing insights into customer purchasing behavior. This analysis aims to uncover patterns in user engagement and product performance, ultimately helping to inform strategies for improving sales and user experience.
 
-I’m always excited to connect with fellow data enthusiasts, collaborators, and potential employers. Thanks for visiting my portfolio, and feel free to reach out if you’d like to chat about data or explore potential collaborations!
+**Key Skills:** 
+- **Excel** for an initial overview and validation of the data.
+- **Python** (using libraries such as Pandas, Seaborn, and Matplotlib) for exploratory data analysis, creating bar plots, scatter plots, and generating insights.
+- **Tableau** for developing an interactive dashboard to visualize trends and findings effectively.
 
-## Portfolio Projects
-In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
+### [ATM Transactions](https://github.com/shortross27/ATM-Transactions)
 
-### Exploartory Data Analysis of NYC Taxi and Limo Data
-**Code:** Link Here<br />
-**Summary:** The 2017 Yellow Taxi Trip dataset on Kaggle contains detailed trip records for New York City’s yellow taxi services, capturing information like pickup and drop-off dates, locations, passenger count, trip distance, fare, and payment type. It’s ideal for analyzing trip patterns, demand trends, fare structures, and geographic insights across NYC. This dataset is large, offering data across the entire year, making it suitable for time-series analysis, geographic clustering, and predictive modeling.<br />
-**Skills:** Data cleaning, data wrangling, exploratory data analysis, data vizualization, python proficiency, analytical thinkning.<br />
-**Technology:** Python, Pandas, Matplotlib, Numpy, Datetime, and Seaborn.<br />
-**Results:** Review of the 2017 yellow taxi trip data in New York City showed an average ride cost of around $13.68, with a trend towards slightly higher fares compared to previous years when adjusted for inflation, indicating a potential increase in tipping frequency or amounts as a contributing factor to the price rise. Identified outliers within trip distance and total cost, which plays an important role in considering future projections.
+**Description:** This report focuses on the data quality issues found in the ATM transaction dataset for May in Northern Virginia. Some of the main issues include outliers in transaction amounts and daily balances, as well as incorrect transaction dates. These issues could cause problems with analyzing data and might lead to inaccurate conclusions, especially when detecting fraud. To fix these problems, I recommend cleaning the data, removing outliers, and improving how the data is entered to make sure that future analysis is more accurate.
+
+**Key Skills:** 
+- **Exploratory Data Analysis:** I looked through the dataset to check for missing or incorrect data.
+- **Statistical Analysis:** I calculated summary statistics (like mean and median) for transaction amounts and daily balances to identify any extreme values.
+- **Data Visualization:** Using Tableau, I created charts and graphs to see patterns in the data, such as high transaction amounts or strange balances. I also checked for any unusual transaction dates.
+
+
+## Skills
+This portfolio highlights my experience in the following areas:
+
+- **Programming Languages:** Python, SQL
+- **Data Visualization Tools:** Tableau, Matplotlib, Seaborn
+- **Statistical Analysis:** Hypothesis testing, regression, and statistical modeling
+- **Web Development:** HTML, CSS, JavaScript
+- **Technical Writing:** Documentation, instructional design, report writing
+
+## Contact
+If you'd like to connect or have any questions about my work, please feel free to reach out:
+
+LinkedIn: ("https://www.linkedin.com/in/tylerross27")
+
