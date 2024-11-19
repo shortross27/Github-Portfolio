@@ -8,6 +8,16 @@ This portfolio site presents a curated selection of my projects, technical skill
 ## Projects
 Here are some of the key projects featured in this portfolio:
 
+### [Forward Propagation](https://github.com/shortross27/Forward-Propagation)
+
+**Description:** This project aims to predict customer churn using an Artificial Neural Network (ANN). The model was trained on a dataset containing customer information, and various visualizations were created to evaluate and interpret the model's performance.
+
+**Key Skills:** 
+- **Data preprocessing**, including feature encoding and scaling.
+- **Building and training a neural network** using TensorFlow/Keras.
+- **Evaluating the model's performance** with metrics like accuracy and loss.
+- **Python** (using libraries such as Pandas, Seaborn, Sktlearn, and Matplotlib) for exploratory data manipulation, building artificial neural network, and preprocessing.
+
 ### [User-Behavior eCommerce](https://github.com/shortross27/User-Behavior-eCommerce)
 
 **Description:** This project utilizes the User-Behavior eCommerce dataset sourced from Kaggle, which captures user interactions on an online retail platform. The dataset includes various attributes, such as user IDs, product categories, timestamps, and actions taken, providing insights into customer purchasing behavior. This analysis aims to uncover patterns in user engagement and product performance, ultimately helping to inform strategies for improving sales and user experience.
